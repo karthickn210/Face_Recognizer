@@ -9,20 +9,20 @@
  
  1. numpy
            
-           '''shell
-            pip3 install numpy
+           '''Shell
+            $ pip3 install numpy
             '''
  2. opencv           
             
-            '''shell
-            pip3 install opencv-python
-            pip3 install opencv-contrib-python
+            '''Shell
+            $ pip3 install opencv-python
+            $ pip3 install opencv-contrib-python
             '''
             
  3. pickle
  
-            '''shell
-            pip3 install pickle
+            '''Shell
+            $ pip3 install pickle
             '''
  
  
